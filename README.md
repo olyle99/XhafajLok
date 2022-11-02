@@ -252,7 +252,7 @@ http://130.0.24.6:2831/udp/239.101.43.59:2345
 http://130.0.24.6:2831/udp/239.101.43.66:2345
 #EXTINF:-1 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/2kCMCTw.png",[$]OVER SPORT 1HD VIP
 http://130.0.24.6:2831/udp/228.50.50.100:30000
-#EXTINF:0 group-title="[🇦🇱📺]TV tvg-logo="https://i.imgur.com/2kCMCTw.png",[$]OVERSPORT 1HD 
+#EXTINF:0 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/2kCMCTw.png",[$]OVERSPORT 1HD 
 http://iptvtree.net:8080/live/cipo/R3vwiPGU8YAb4r57ed8j/290218.ts
 #EXTINF:0 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/S8yhwc3.png",[$]OVERSPORT 2HD
 http://iptvtree.net:8080/live/cipo/R3vwiPGU8YAb4r57ed8j/295514.ts
