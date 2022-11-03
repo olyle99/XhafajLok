@@ -1,4 +1,4 @@
-#EXTINF:0 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/grewwFY.png",========>>GJENERALE<<========
+#EXTINF:0 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/QhnM1No.png",========>>GJENERALE<<========
 http://gjenerale.ibc/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/FnpdLkm.png",[$]TOP CHANNEL HD
 http://130.0.24.6:2831/udp/239.101.101.25:2345
@@ -50,7 +50,7 @@ http://130.0.24.6:2831/udp/239.101.43.36:2345
 http://130.0.24.6:2831/udp/239.101.43.87:2345
 #EXTINF:0 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/pnfJfUh.png",[$]ZJARR-TV HD
 http://130.0.24.6:2831/udp/239.101.41.12:2345
-#EXTINF:0 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/grewwFY.png",========>>LAJME<<========
+#EXTINF:0 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/QhnM1No.png",========>>LAJME<<========
 http://lajme.ibc/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/3E0hAUr.png",[$]TIBO NEWS HD
 http://130.0.24.6:2831/udp/228.50.50.250:30000
@@ -76,7 +76,7 @@ http://130.0.24.6:2831/udp/239.101.43.34:2345
 http://130.0.24.6:2831/udp/239.101.43.10:2345
 #EXTINF:-1 group-title="[🇦🇱📺]TV"tvg-logo="https://i.ibb.co/6ZGWD7F/adria.png",[$]ADRIA-NET
 http://130.0.24.6:2831/udp/239.101.43.9:2345
-#EXTINF:0 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/grewwFY.png",========>>MUZIKE<<========
+#EXTINF:0 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/QhnM1No.png",========>>MUZIKE<<========
 http://muzike.ibc/index.m3u8
 #EXTINF:-1 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/QNXiMlY.png",[$]KLAN MUSIC
 http://130.0.24.6:2831/udp/228.50.50.104:30000
@@ -92,7 +92,7 @@ http://130.0.24.6:2831/udp/239.101.41.20:2345
 http://130.0.24.6:2831/udp/239.101.41.9:2345
 #EXTINF:-1 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/HROdCKO.png",[$]ELRODI TV 
 http://130.0.24.6:2831/udp/239.101.43.4:234
-#EXTINF:0 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/grewwFY.png",========>>KULTURE<<========
+#EXTINF:0 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/QhnM1No.png",========>>KULTURE<<========
 http://kulture.ibc/index.m3u8
 #EXTINF:-1 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/AopZ2eF.png",[$]TERRA HD
 http://130.0.24.6:2831/udp/228.50.50.73:30000
@@ -122,7 +122,7 @@ http://130.0.24.6:2831/udp/239.101.41.10:2345
 http://130.0.24.6:2831/udp/239.101.43.31:2345
 #EXTINF:-1 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/gMldbCW.png",[$]LUXE TV
 http://130.0.24.6:2831/udp/239.101.43.42:2345
-#EXTINF:0 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/grewwFY.png",========>>FEMIJE<<========
+#EXTINF:0 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/QhnM1No.png",========>>FEMIJE<<========
 http://femije.ibc/index.m3u8
 #EXTINF:-1 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/LQb39yF.png",[$]TAO TAO
 http://130.0.24.6:2831/udp/228.50.50.74:30000
@@ -142,7 +142,7 @@ http://130.0.24.6:2831/udp/239.101.101.13:2345
 http://130.0.24.6:2831/udp/239.101.43.54:2345
 #EXTINF:-1 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/wL1r9c6.png",[$]BOOMERANG 
 http://130.0.24.6:2831/udp/239.101.43.57:2345
-#EXTINF:0 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/grewwFY.png",========>>FILMA<<========
+#EXTINF:0 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/QhnM1No.png",========>>FILMA<<========
 http://filma.ibc/index.m3u8
 #EXTINF:-1 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/fua5iXh.png",[$]CINEMA 1HD
 http://130.0.24.6:2831/udp/228.50.50.71:30000
@@ -168,14 +168,6 @@ http://130.0.24.6:2831/udp/228.50.50.230:30000
 http://130.0.24.6:2831/udp/228.50.50.229:30000
 #EXTINF:-1 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/pOIa4B4.png",[$]SOFA HD
 http://130.0.24.6:2831/udp/228.50.50.233:30000
-#EXTINF:-1 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/jcKxpVF.png",[$]GBC MOVIE 1HD
-http://130.0.24.6:2831/udp/228.50.50.248:30000
-#EXTINF:-1 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/SXWJOVN.png",[$]GBC MOVIE 2HD
-http://130.0.24.6:2831/udp/228.50.50.232:30000
-#EXTINF:-1 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/cH6cwjD.png",[$]GBC MEMORY HD
-http://130.0.24.6:2831/udp/228.50.50.231:30000
-#EXTINF:-1 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/NqeOlR0.png",[$]GBC COMIC HD
-http://130.0.24.6:2831/udp/228.50.50.226:30000
 #EXTINF:-1 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/35ZY2wB.png",[$]FILM GOLD HD
 http://130.0.24.6:2831/udp/228.50.50.168:30000
 #EXTINF:-1 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/xoo08um.png",[$]FILM MAX HD
@@ -230,7 +222,7 @@ http://130.0.24.6:2831/udp/239.101.101.8:2345
 http://130.0.24.6:2831/udp/239.101.41.14:2345
 #EXTINF:0 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/jUd9a47.png",[$]RTSH FILM
 http://130.0.24.6:2831/udp/239.101.43.25:2345
-#EXTINF:0 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/grewwFY.png",========>>SPORTE<<========
+#EXTINF:0 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/QhnM1No.png",========>>SPORTE<<========
 http://sporte.ibc/index.m3u8
 #EXTINF:-1 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/uVNwXjS.png",[$]SUPER SPORT 1HD
 http://130.0.24.6:2831/udp/228.50.50.61:30000
@@ -261,14 +253,14 @@ http://iptvtree.net:8080/live/cipo/R3vwiPGU8YAb4r57ed8j/290537.ts
 #EXTINF:0 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/RLXV4U7.png",[$]OVERSPORT 4HD 
 http://iptvtree.net:8080/live/cipo/R3vwiPGU8YAb4r57ed8j/290538.ts
 #EXTINF:0 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/YMM0Et3.png",[$]RTSH SPORT HD 
-http://130.0.24.6:2831/udp/239.101.43.24:2345
+https://tvlive.rtsh.dev/live/sport_mob_ppp2/playlist.m3u8|Referer=https://tv.rtsh.al/
 #EXTINF:-1 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/e8cZUA9.png",[$]RAI SPORT +HD
 http://130.0.24.6:2831/udp/228.50.50.39:30000
 #EXTINF:-1 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/S7N9s1S.png",[$]SUPER TENNIS HD 
 http://130.0.24.6:2831/udp/239.101.43.108:2345
 #EXTINF:-1 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/EWgDK7p.png",[$]GBC SPORT HD
 http://130.0.24.6:2831/udp/228.50.50.235:30000
-#EXTINF:0 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/grewwFY.png",========>>SPORTE TE HUAJA<<========
+#EXTINF:0 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/QhnM1No.png",========>>SPORTE TE HUAJA<<========
 http://sportehuaja.ibc/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]TV" tvg-logo="https://i.imgur.com/oRmZV7m.png",[$]S1 SPORT HD
 http://194.163.179.246/slovenci/sport/sporttvhd.m3u8?
