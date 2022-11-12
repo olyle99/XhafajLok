@@ -54,7 +54,7 @@ http://130.0.24.6:2831/udp/239.101.41.12:2345
 #EXTINF:0 group-title="[🇦🇱📺]LAJME" tvg-logo="https://i.imgur.com/3E0hAUr.png",[$]TIBO NEWS HD
 http://130.0.24.6:2831/udp/228.50.50.250:30000
 #EXTINF:0 group-title="[🇦🇱📺]LAJME" tvg-logo="https://i.imgur.com/9CeQ9qD.png",[$]ABC NEWS
-https://tv2.abcnews.al/live/abcnews/chunks.m3u8|Referer=https://abcnews.al/
+http://89.39.106.21:8080/AbCnEwsghdg/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]LAJME" tvg-logo="https://i.imgur.com/iFgj4d2.png",[$]NEWS 24
 http://130.0.24.6:2831/udp/239.101.41.1:2345
 #EXTINF:0 group-title="[🇦🇱📺]LAJME" tvg-logo="https://i.imgur.com/7HxzZqY.png",[$]SYRI TV
