@@ -217,9 +217,9 @@ http://130.0.24.6:2831/udp/239.101.43.25:2345
 #EXTINF:-1 group-title="[🇦🇱📺]SPORTE" tvg-logo="https://i.imgur.com/uVNwXjS.png",[$]SUPER SPORT 1HD
 http://130.0.24.6:2831/udp/228.50.50.61:30000
 #EXTINF:-1 group-title="[🇦🇱📺]SPORTE" tvg-logo="https://i.imgur.com/DTeLqi0.png",[$]SUPER SPORT 2HD
-http://sharkytv.com:2082/worldiptv/vc3UA2cCSW/214669
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/65414.ts
 #EXTINF:-1 group-title="[🇦🇱📺]SPORTE" tvg-logo="https://i.imgur.com/Bvffric.png",[$]SUPER SPORT 3HD
-http://sharkytv.com:2082/worldiptv/vc3UA2cCSW/214670
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/65415.ts
 #EXTINF:-1 group-title="[🇦🇱📺]SPORTE" tvg-logo="https://i.imgur.com/OCe0PNo.png",[$]SUPER SPORT 4HD
 http://130.0.24.6:2831/udp/228.50.50.64:30000
 #EXTINF:0 group-title="[🇦🇱📺]SPORTE" tvg-logo="https://i.imgur.com/nMeeRXH.png",[$]SS 1HD
